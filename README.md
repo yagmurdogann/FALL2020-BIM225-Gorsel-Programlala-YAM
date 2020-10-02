@@ -1,1 +1,1 @@
-# FALL2020-BIM225-G-rsel-Programlala-YAM
+# Visual Programming Course Software Engineering Class
