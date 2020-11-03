@@ -19,7 +19,7 @@ namespace ProjecctDemoYAM
             //malloc or calloc
             // memory allocation
             // new keyword: Object olusturmak icin gencler:)
-            Application.Run(new Form2());
+            Application.Run(new Form4());
         }
     }
 }
